@@ -1,0 +1,1 @@
+# Ne-klauzalni-SAT-resavac
